@@ -53,9 +53,9 @@ object Form1: TForm1
   end
   object FDConnection1: TFDConnection
     Params.Strings = (
-      'User_Name=root'
-      'Password=chelseafc'
-      'Database=vms'
+      'User_Name='
+      'Password='
+      'Database='
       'DriverID=MySql')
     TxOptions.AutoStart = False
     TxOptions.AutoStop = False
